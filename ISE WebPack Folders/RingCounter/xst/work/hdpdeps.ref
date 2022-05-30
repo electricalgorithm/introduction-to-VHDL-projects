@@ -1,0 +1,6 @@
+V3 3
+FL D:/Students/PLD-2022/RingCounter/RingCounter.vhd 2022/05/27.17:31:55 O.87xd
+EN work/RingCounter 1653665518 \
+      FL D:/Students/PLD-2022/RingCounter/RingCounter.vhd PB ieee/std_logic_1164 1325952872
+AR work/RingCounter/Behavioral 1653665519 \
+      FL D:/Students/PLD-2022/RingCounter/RingCounter.vhd EN work/RingCounter 1653665518

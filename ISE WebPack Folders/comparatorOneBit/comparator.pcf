@@ -1,0 +1,10 @@
+//! **************************************************************************
+// Written by: Map O.87xd on Fri May 20 17:33:12 2022
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "A" LOCATE = SITE "P5" LEVEL 1;
+COMP "B" LOCATE = SITE "P35" LEVEL 1;
+COMP "CMP" LOCATE = SITE "P59" LEVEL 1;
+SCHEMATIC END;
+

@@ -1,0 +1,8 @@
+V3 3
+FL D:/Students/PLD-2022/bin_to_sevenSeg/bin_to_sevenSegment.vhd 2022/05/27.16:50:00 O.87xd
+EN work/bin_to_sevenSegment 1653663005 \
+      FL D:/Students/PLD-2022/bin_to_sevenSeg/bin_to_sevenSegment.vhd \
+      PB ieee/std_logic_1164 1325952872
+AR work/bin_to_sevenSegment/Behavioral 1653663006 \
+      FL D:/Students/PLD-2022/bin_to_sevenSeg/bin_to_sevenSegment.vhd \
+      EN work/bin_to_sevenSegment 1653663005

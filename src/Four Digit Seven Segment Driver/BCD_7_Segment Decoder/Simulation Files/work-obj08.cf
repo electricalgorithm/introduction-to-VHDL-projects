@@ -1,0 +1,7 @@
+v 4
+file . "BCDtoSevenSEGdecoder.vhdl" "b2f42856db55463ff8e7e6d00bf702332d8d75cf" "20220423203907.051":
+  entity bcdtosevensegdecoder at 1( 0) + 0 on 13;
+  architecture behavioral of bcdtosevensegdecoder at 9( 226) + 0 on 14;
+file . "BCDtoSevenSEGdecoderTest.vhdl" "3917c50d535c8caca6ddfacf74f9285399a048f5" "20220423203907.048":
+  entity bcdtosevensegdecodertest at 2( 1) + 0 on 11;
+  architecture behavior of bcdtosevensegdecodertest at 8( 113) + 0 on 12;

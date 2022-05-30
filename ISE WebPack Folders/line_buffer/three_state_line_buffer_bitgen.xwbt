@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=D:\Students\PLD-2022\line_buffer\three_state_line_buffer.ncd
+OUTFILE=D:\Students\PLD-2022\line_buffer\three_state_line_buffer.bit
+FAMILY=Spartan3
+PART=xc3s200-4vq100
+WORKINGDIR=D:\Students\PLD-2022\line_buffer
+LICENSE=WebPack
+USER_INFO=211215349_0_0_431

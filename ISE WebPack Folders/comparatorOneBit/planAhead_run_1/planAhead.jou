@@ -1,0 +1,25 @@
+#-----------------------------------------------------------
+# PlanAhead v13.4 (64-bit)
+# Build 157570 by hdbuild on Fri Dec 16 13:06:31 MST 2011
+# Start of session at: Fri May 20 17:31:19 2022
+# Process ID: 448
+# Log file: D:/Students/PLD-2022/comparatorOneBit/planAhead_run_1/planAhead.log
+# Journal file: D:/Students/PLD-2022/comparatorOneBit/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source D:/Students/PLD-2022/comparatorOneBit/pa.fromNetlist.tcl
+startgroup
+set_property loc PAD185 [get_ports A]
+endgroup
+startgroup
+set_property loc PAD185 [get_ports A]
+endgroup
+startgroup
+set_property loc PAD127 [get_ports B]
+endgroup
+startgroup
+set_property loc PAD83 [get_ports CMP]
+endgroup
+save_design
+exit
+stop_gui

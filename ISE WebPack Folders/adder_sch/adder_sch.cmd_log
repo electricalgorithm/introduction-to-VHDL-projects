@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "D:/Students/PLD-2022/adder_sch/adder_sch.xst" -ofn "D:/Students/PLD-2022/adder_sch/adder_sch.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc adder_sch.ucf -p xc3s200-vq100-4 adder_sch.ngc adder_sch.ngd  
+map -intstyle ise -p xc3s200-vq100-4 -cm area -ir off -pr off -c 100 -o adder_sch_map.ncd adder_sch.ngd adder_sch.pcf 
+par -w -intstyle ise -ol high -t 1 adder_sch_map.ncd adder_sch.ncd adder_sch.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml adder_sch.twx adder_sch.ncd -o adder_sch.twr adder_sch.pcf -ucf adder_sch.ucf 
+bitgen -intstyle ise -f adder_sch.ut adder_sch.ncd 

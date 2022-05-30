@@ -1,0 +1,12 @@
+
+# PlanAhead Generated physical constraints 
+
+NET "CLK" LOC = P36;
+NET "Y[0]" LOC = P59;
+NET "Y[1]" LOC = P60;
+NET "Y[2]" LOC = P61;
+NET "Y[3]" LOC = P62;
+NET "Y[4]" LOC = P63;
+NET "Y[5]" LOC = P64;
+NET "Y[6]" LOC = P65;
+NET "Y[7]" LOC = P67;

@@ -1,0 +1,8 @@
+V3 7
+FL D:/Students/PLD-2022/adder_sch/adder_sch.vhf 2022/05/20.16:33:40 O.87xd
+EN work/adder_sch 1653057226 FL D:/Students/PLD-2022/adder_sch/adder_sch.vhf \
+      PB ieee/std_logic_1164 1325952872 PB ieee/NUMERIC_STD 1325952877 LB UNISIM \
+      PH unisim/VCOMPONENTS 1325952880
+AR work/adder_sch/BEHAVIORAL 1653057227 \
+      FL D:/Students/PLD-2022/adder_sch/adder_sch.vhf EN work/adder_sch 1653057226 \
+      CP AND2 CP OR2 CP XOR3

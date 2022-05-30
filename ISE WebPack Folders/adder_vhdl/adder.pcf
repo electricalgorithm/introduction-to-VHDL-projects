@@ -1,0 +1,12 @@
+//! **************************************************************************
+// Written by: Map O.87xd on Fri May 20 16:51:39 2022
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "Cout" LOCATE = SITE "P65" LEVEL 1;
+COMP "A" LOCATE = SITE "P5" LEVEL 1;
+COMP "B" LOCATE = SITE "P35" LEVEL 1;
+COMP "S" LOCATE = SITE "P67" LEVEL 1;
+COMP "Cin" LOCATE = SITE "P34" LEVEL 1;
+SCHEMATIC END;
+

@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<generated_project xmlns="http://www.xilinx.com/XMLSchema" xmlns:xil_pn="http://www.xilinx.com/XMLSchema">
+
+  <!--                                                          -->
+
+  <!--             For tool use only. Do not edit.              -->
+
+  <!--                                                          -->
+
+  <!-- ProjectNavigator created generated project file.         -->
+
+  <!-- For use in tracking generated file and other information -->
+
+  <!-- allowing preservation of process status.                 -->
+
+  <!--                                                          -->
+
+  <!-- Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved. -->
+
+  <version xmlns="http://www.xilinx.com/XMLSchema">11.1</version>
+
+  <sourceproject xmlns="http://www.xilinx.com/XMLSchema" xil_pn:fileType="FILE_XISE" xil_pn:name="bin_to_sevenSeg.xise"/>
+
+  <files xmlns="http://www.xilinx.com/XMLSchema">
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="_ngo"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/map.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/par.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/trce.xmsgs"/>
+    <file xil_pn:fileType="FILE_XMSGS" xil_pn:name="_xmsgs/xst.xmsgs"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGDBUILD_LOG" xil_pn:name="bin_to_sevenSegment.bld"/>
+    <file xil_pn:fileType="FILE_CMD_LOG" xil_pn:name="bin_to_sevenSegment.cmd_log"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_LSO" xil_pn:name="bin_to_sevenSegment.lso"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="bin_to_sevenSegment.ncd" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGC" xil_pn:name="bin_to_sevenSegment.ngc"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGD" xil_pn:name="bin_to_sevenSegment.ngd"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGR" xil_pn:name="bin_to_sevenSegment.ngr"/>
+    <file xil_pn:fileType="FILE_PAD_MISC" xil_pn:name="bin_to_sevenSegment.pad"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAR_REPORT" xil_pn:name="bin_to_sevenSegment.par" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PCF" xil_pn:name="bin_to_sevenSegment.pcf" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="bin_to_sevenSegment.prj"/>
+    <file xil_pn:fileType="FILE_TRCE_MISC" xil_pn:name="bin_to_sevenSegment.ptwx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_STX" xil_pn:name="bin_to_sevenSegment.stx"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_REPORT" xil_pn:name="bin_to_sevenSegment.syr"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_TXT_REPORT" xil_pn:name="bin_to_sevenSegment.twr" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_TIMING_XML_REPORT" xil_pn:name="bin_to_sevenSegment.twx" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_UNROUTES" xil_pn:name="bin_to_sevenSegment.unroutes" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="bin_to_sevenSegment.ut" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:fileType="FILE_XPI" xil_pn:name="bin_to_sevenSegment.xpi"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST" xil_pn:name="bin_to_sevenSegment.xst"/>
+    <file xil_pn:fileType="FILE_NCD" xil_pn:name="bin_to_sevenSegment_guide.ncd" xil_pn:origination="imported"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="bin_to_sevenSegment_map.map" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_MAP_REPORT" xil_pn:name="bin_to_sevenSegment_map.mrp" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NCD" xil_pn:name="bin_to_sevenSegment_map.ncd" xil_pn:subbranch="Map"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_NGM" xil_pn:name="bin_to_sevenSegment_map.ngm" xil_pn:subbranch="Map"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="bin_to_sevenSegment_map.xrpt"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="bin_to_sevenSegment_ngdbuild.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_EXCEL_REPORT" xil_pn:name="bin_to_sevenSegment_pad.csv" xil_pn:subbranch="Par"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_PAD_TXT_REPORT" xil_pn:name="bin_to_sevenSegment_pad.txt" xil_pn:subbranch="Par"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="bin_to_sevenSegment_par.xrpt"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="bin_to_sevenSegment_summary.html"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="bin_to_sevenSegment_summary.xml"/>
+    <file xil_pn:fileType="FILE_WEBTALK" xil_pn:name="bin_to_sevenSegment_usage.xml"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_XST_PROJECT" xil_pn:name="bin_to_sevenSegment_vhdl.prj"/>
+    <file xil_pn:fileType="FILE_XRPT" xil_pn:name="bin_to_sevenSegment_xst.xrpt"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_REPORT" xil_pn:name="bin_to_sevensegment.bgn" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BIT" xil_pn:name="bin_to_sevensegment.bit" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:branch="Implementation" xil_pn:fileType="FILE_BITGEN_DRC" xil_pn:name="bin_to_sevensegment.drc" xil_pn:subbranch="FPGAConfiguration"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="planAhead_run_1"/>
+    <file xil_pn:fileType="FILE_HTML" xil_pn:name="usage_statistics_webtalk.html"/>
+    <file xil_pn:fileType="FILE_LOG" xil_pn:name="webtalk.log"/>
+    <file xil_pn:fileType="FILE_FITTER_REPORT" xil_pn:name="webtalk_pn.xml"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xlnx_auto_0_xdb"/>
+    <file xil_pn:fileType="FILE_DIRECTORY" xil_pn:name="xst"/>
+  </files>
+
+  <transforms xmlns="http://www.xilinx.com/XMLSchema">
+    <transform xil_pn:end_ts="1653663003" xil_pn:name="TRAN_copyInitialToXSTAbstractSynthesis" xil_pn:start_ts="1653663003">
+      <status xil_pn:value="SuccessfullyRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1653663003" xil_pn:name="TRAN_schematicsToHdl" xil_pn:prop_ck="5020041131035061033" xil_pn:start_ts="1653663003">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1653663003" xil_pn:name="TRAN_regenerateCores" xil_pn:prop_ck="4113990432514680290" xil_pn:start_ts="1653663003">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1653663003" xil_pn:name="TRAN_SubProjectAbstractToPreProxy" xil_pn:start_ts="1653663003">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1653663003" xil_pn:name="TRAN_xawsTohdl" xil_pn:prop_ck="-3101846984059582095" xil_pn:start_ts="1653663003">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1653663003" xil_pn:name="TRAN_SubProjectPreToStructuralProxy" xil_pn:prop_ck="1110319057746590583" xil_pn:start_ts="1653663003">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1653663003" xil_pn:name="TRAN_platgen" xil_pn:prop_ck="391308982695544748" xil_pn:start_ts="1653663003">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1653663010" xil_pn:in_ck="5884861493683806910" xil_pn:name="TRANEXT_xstsynthesize_spartan3" xil_pn:prop_ck="-8381538120187180992" xil_pn:start_ts="1653663003">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <status xil_pn:value="OutOfDateForOutputs"/>
+      <status xil_pn:value="OutputChanged"/>
+      <outfile xil_pn:name="_xmsgs/xst.xmsgs"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.lso"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.ngc"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.ngr"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.prj"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.stx"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.syr"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.xst"/>
+      <outfile xil_pn:name="bin_to_sevenSegment_vhdl.prj"/>
+      <outfile xil_pn:name="bin_to_sevenSegment_xst.xrpt"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+      <outfile xil_pn:name="xst"/>
+    </transform>
+    <transform xil_pn:end_ts="1653663142" xil_pn:in_ck="5884861493683805658" xil_pn:name="TRAN_compileBCD2" xil_pn:prop_ck="384513968669854854" xil_pn:start_ts="1653663142">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+    </transform>
+    <transform xil_pn:end_ts="1653663148" xil_pn:in_ck="459166166201161710" xil_pn:name="TRANEXT_ngdbuild_FPGA" xil_pn:prop_ck="-1718705210121658166" xil_pn:start_ts="1653663142">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_ngo"/>
+      <outfile xil_pn:name="_xmsgs/ngdbuild.xmsgs"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.bld"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.ngd"/>
+      <outfile xil_pn:name="bin_to_sevenSegment_ngdbuild.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1653663151" xil_pn:in_ck="1730969916606369487" xil_pn:name="TRANEXT_map_spartan3" xil_pn:prop_ck="3030931893189890169" xil_pn:start_ts="1653663148">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="WarningsGenerated"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/map.xmsgs"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.pcf"/>
+      <outfile xil_pn:name="bin_to_sevenSegment_map.map"/>
+      <outfile xil_pn:name="bin_to_sevenSegment_map.mrp"/>
+      <outfile xil_pn:name="bin_to_sevenSegment_map.ncd"/>
+      <outfile xil_pn:name="bin_to_sevenSegment_map.ngm"/>
+      <outfile xil_pn:name="bin_to_sevenSegment_map.xrpt"/>
+      <outfile xil_pn:name="bin_to_sevenSegment_summary.xml"/>
+      <outfile xil_pn:name="bin_to_sevenSegment_usage.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1653663157" xil_pn:in_ck="8341383473914054600" xil_pn:name="TRANEXT_par_spartan3" xil_pn:prop_ck="3333849164707216606" xil_pn:start_ts="1653663151">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/par.xmsgs"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.ncd"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.pad"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.par"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.ptwx"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.unroutes"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.xpi"/>
+      <outfile xil_pn:name="bin_to_sevenSegment_pad.csv"/>
+      <outfile xil_pn:name="bin_to_sevenSegment_pad.txt"/>
+      <outfile xil_pn:name="bin_to_sevenSegment_par.xrpt"/>
+    </transform>
+    <transform xil_pn:end_ts="1653663177" xil_pn:in_ck="5884861493683798033" xil_pn:name="TRANEXT_bitFile_spartan3" xil_pn:prop_ck="1257802775646066249" xil_pn:start_ts="1653663173">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/bitgen.xmsgs"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.ut"/>
+      <outfile xil_pn:name="bin_to_sevensegment.bgn"/>
+      <outfile xil_pn:name="bin_to_sevensegment.bit"/>
+      <outfile xil_pn:name="bin_to_sevensegment.drc"/>
+      <outfile xil_pn:name="usage_statistics_webtalk.html"/>
+      <outfile xil_pn:name="webtalk.log"/>
+      <outfile xil_pn:name="webtalk_pn.xml"/>
+    </transform>
+    <transform xil_pn:end_ts="1653663157" xil_pn:in_ck="-126428473495092533" xil_pn:name="TRAN_postRouteTrce" xil_pn:prop_ck="445577401284416186" xil_pn:start_ts="1653663155">
+      <status xil_pn:value="SuccessfullyRun"/>
+      <status xil_pn:value="ReadyToRun"/>
+      <outfile xil_pn:name="_xmsgs/trce.xmsgs"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.twr"/>
+      <outfile xil_pn:name="bin_to_sevenSegment.twx"/>
+    </transform>
+  </transforms>
+
+</generated_project>

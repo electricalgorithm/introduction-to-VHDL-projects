@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<DeviceUsageSummary rev="7">
+<DesignStatistics TimeStamp="Fri May 20 17:17:59 2022"><group name="NetStatistics">
+<item name="NumNets_Active" rev="7">
+<attrib name="value" value="6"/></item>
+<item name="NumNodesOfType_Active_CNTRLPIN" rev="7">
+<attrib name="value" value="2"/></item>
+<item name="NumNodesOfType_Active_DOUBLE" rev="7">
+<attrib name="value" value="9"/></item>
+<item name="NumNodesOfType_Active_DUMMYESC" rev="7">
+<attrib name="value" value="2"/></item>
+<item name="NumNodesOfType_Active_HUNIHEX" rev="7">
+<attrib name="value" value="5"/></item>
+<item name="NumNodesOfType_Active_INPUT" rev="7">
+<attrib name="value" value="2"/></item>
+<item name="NumNodesOfType_Active_IOBOUTPUT" rev="7">
+<attrib name="value" value="2"/></item>
+<item name="NumNodesOfType_Active_VFULLHEX" rev="7">
+<attrib name="value" value="1"/></item>
+<item name="NumNodesOfType_Active_VUNIHEX" rev="7">
+<attrib name="value" value="3"/></item>
+</group>
+<group name="SiteStatistics">
+<item name="IOB-DIFFM" rev="7">
+<attrib name="value" value="2"/></item>
+<item name="IOB-DIFFS" rev="7">
+<attrib name="value" value="2"/></item>
+</group>
+<group name="MiscellaneousStatistics">
+<item name="AGG_BONDED_IO" rev="6">
+<attrib name="value" value="4"/></item>
+<item name="AGG_IO" rev="6">
+<attrib name="value" value="4"/></item>
+<item name="NUM_BONDED_IOB" rev="6">
+<attrib name="value" value="4"/></item>
+</group>
+</DesignStatistics>
+<DeviceUsage TimeStamp="Fri May 20 17:17:59 2022"><group name="SiteSummary">
+<item name="IOB" rev="7">
+<attrib name="total" value="1000000"/><attrib name="used" value="4"/></item>
+<item name="IOB_INBUF" rev="7">
+<attrib name="total" value="1000000"/><attrib name="used" value="2"/></item>
+<item name="IOB_OUTBUF" rev="7">
+<attrib name="total" value="1000000"/><attrib name="used" value="2"/></item>
+<item name="IOB_PAD" rev="7">
+<attrib name="total" value="1000000"/><attrib name="used" value="4"/></item>
+</group>
+</DeviceUsage>
+<ReportConfigData TimeStamp="Fri May 20 17:17:59 2022"><group name="IOB_OUTBUF">
+<item name="IN" rev="7">
+<attrib name="IN_INV" value="1"/><attrib name="IN" value="1"/></item>
+<item name="TRI" rev="7">
+<attrib name="TRI_INV" value="2"/><attrib name="TRI" value="0"/></item>
+</group>
+<group name="IOB_PAD">
+<item name="DRIVEATTRBOX" rev="7">
+<attrib name="12" value="2"/></item>
+<item name="IOATTRBOX" rev="7">
+<attrib name="LVCMOS25" value="4"/></item>
+<item name="SLEW" rev="7">
+<attrib name="SLOW" value="2"/></item>
+</group>
+<group name="IOB">
+<item name="O1" rev="7">
+<attrib name="O1_INV" value="1"/><attrib name="O1" value="1"/></item>
+<item name="T1" rev="7">
+<attrib name="T1_INV" value="2"/><attrib name="T1" value="0"/></item>
+</group>
+</ReportConfigData>
+<ReportPinData TimeStamp="Fri May 20 17:17:59 2022"><group name="IOB_OUTBUF">
+<item name="IN" rev="7">
+<attrib name="value" value="2"/></item>
+<item name="OUT" rev="7">
+<attrib name="value" value="2"/></item>
+<item name="TRI" rev="7">
+<attrib name="value" value="2"/></item>
+</group>
+<group name="IOB_INBUF">
+<item name="IN" rev="7">
+<attrib name="value" value="2"/></item>
+<item name="OUT" rev="7">
+<attrib name="value" value="2"/></item>
+</group>
+<group name="IOB_PAD">
+<item name="PAD" rev="7">
+<attrib name="value" value="4"/></item>
+</group>
+<group name="IOB">
+<item name="I" rev="7">
+<attrib name="value" value="2"/></item>
+<item name="O1" rev="7">
+<attrib name="value" value="2"/></item>
+<item name="PAD" rev="7">
+<attrib name="value" value="4"/></item>
+<item name="T1" rev="7">
+<attrib name="value" value="2"/></item>
+</group>
+</ReportPinData>
+<CmdHistory>
+</CmdHistory>
+</DeviceUsageSummary>

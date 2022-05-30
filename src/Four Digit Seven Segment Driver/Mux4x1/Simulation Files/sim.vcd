@@ -1,0 +1,61 @@
+$date
+  Sun Apr 24 01:30:56 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module textio $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module mux4x1test $end
+$var reg 4 ! input_0[3:0] $end
+$var reg 4 " input_1[3:0] $end
+$var reg 4 # input_2[3:0] $end
+$var reg 4 $ input_3[3:0] $end
+$var reg 2 % m_sel[1:0] $end
+$var reg 4 & m_out[3:0] $end
+$scope module uut $end
+$var reg 4 ' input_0[3:0] $end
+$var reg 4 ( input_1[3:0] $end
+$var reg 4 ) input_2[3:0] $end
+$var reg 4 * input_3[3:0] $end
+$var reg 2 + m_sel[1:0] $end
+$var reg 4 , m_out[3:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b1001 !
+b0001 "
+b1100 #
+b0011 $
+b00 %
+b0011 &
+b1001 '
+b0001 (
+b1100 )
+b0011 *
+b00 +
+b0011 ,
+#40000000
+b01 %
+b1100 &
+b01 +
+b1100 ,
+#80000000
+b10 %
+b0001 &
+b10 +
+b0001 ,
+#120000000
+b11 %
+b1001 &
+b11 +
+b1001 ,
+#160000000

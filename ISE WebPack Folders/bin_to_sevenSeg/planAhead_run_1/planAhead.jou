@@ -1,0 +1,49 @@
+#-----------------------------------------------------------
+# PlanAhead v13.4 (64-bit)
+# Build 157570 by hdbuild on Fri Dec 16 13:06:31 MST 2011
+# Start of session at: Fri May 27 16:50:19 2022
+# Process ID: 8116
+# Log file: D:/Students/PLD-2022/bin_to_sevenSeg/planAhead_run_1/planAhead.log
+# Journal file: D:/Students/PLD-2022/bin_to_sevenSeg/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source D:/Students/PLD-2022/bin_to_sevenSeg/pa.fromNetlist.tcl
+startgroup
+set_property loc PAD185 [get_ports X0]
+endgroup
+startgroup
+set_property loc PAD127 [get_ports X1]
+endgroup
+startgroup
+set_property loc PAD128 [get_ports X2]
+endgroup
+startgroup
+set_property loc PAD135 [get_ports X3]
+endgroup
+startgroup
+set_property loc PAD117 [get_ports A]
+endgroup
+startgroup
+set_property loc PAD172 [get_ports B]
+endgroup
+startgroup
+set_property loc PAD171 [get_ports C]
+endgroup
+startgroup
+set_property loc PAD166 [get_ports D]
+endgroup
+startgroup
+set_property loc PAD165 [get_ports E]
+endgroup
+startgroup
+set_property loc PAD164 [get_ports F]
+endgroup
+startgroup
+set_property loc PAD158 [get_ports G]
+endgroup
+startgroup
+set_property loc PAD182 [get_ports BASE]
+endgroup
+save_design
+exit
+stop_gui

@@ -1,0 +1,7 @@
+v 4
+file . "counterTest.vhdl" "c714cb11825e50783b548ca4eecf61da3ca46068" "20220423193150.240":
+  entity countertest at 1( 0) + 0 on 19;
+  architecture behavior of countertest at 7( 86) + 0 on 20;
+file . "counter.vhdl" "c85b2c82a2b90d1a624bb65bbf994536eb8c6b2f" "20220423193150.252":
+  entity counter at 2( 1) + 0 on 21;
+  architecture behavioral of counter at 14( 214) + 0 on 22;

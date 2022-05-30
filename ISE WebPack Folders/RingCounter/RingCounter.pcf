@@ -1,0 +1,17 @@
+//! **************************************************************************
+// Written by: Map O.87xd on Fri May 27 17:32:21 2022
+//! **************************************************************************
+
+SCHEMATIC START;
+COMP "Y<1>" LOCATE = SITE "P60" LEVEL 1;
+COMP "Y<2>" LOCATE = SITE "P61" LEVEL 1;
+COMP "Y<3>" LOCATE = SITE "P62" LEVEL 1;
+COMP "Y<4>" LOCATE = SITE "P63" LEVEL 1;
+COMP "Y<5>" LOCATE = SITE "P64" LEVEL 1;
+COMP "Y<6>" LOCATE = SITE "P65" LEVEL 1;
+COMP "Y<7>" LOCATE = SITE "P67" LEVEL 1;
+COMP "CLK" LOCATE = SITE "P36" LEVEL 1;
+COMP "Y<0>" LOCATE = SITE "P59" LEVEL 1;
+NET "CLK_BUFGP/IBUFG" BEL "CLK_BUFGP/BUFG.GCLKMUX" USELOCALCONNECT;
+SCHEMATIC END;
+

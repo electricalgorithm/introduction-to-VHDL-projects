@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "D:/Students/PLD-2022/bin_to_sevenSeg/bin_to_sevenSegment.xst" -ofn "D:/Students/PLD-2022/bin_to_sevenSeg/bin_to_sevenSegment.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc bin_to_sevenSegment.ucf -p xc3s200-vq100-4 bin_to_sevenSegment.ngc bin_to_sevenSegment.ngd  
+map -intstyle ise -p xc3s200-vq100-4 -cm area -ir off -pr off -c 100 -o bin_to_sevenSegment_map.ncd bin_to_sevenSegment.ngd bin_to_sevenSegment.pcf 
+par -w -intstyle ise -ol high -t 1 bin_to_sevenSegment_map.ncd bin_to_sevenSegment.ncd bin_to_sevenSegment.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml bin_to_sevenSegment.twx bin_to_sevenSegment.ncd -o bin_to_sevenSegment.twr bin_to_sevenSegment.pcf -ucf bin_to_sevenSegment.ucf 
+bitgen -intstyle ise -f bin_to_sevenSegment.ut bin_to_sevenSegment.ncd 

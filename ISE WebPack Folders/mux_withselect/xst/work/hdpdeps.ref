@@ -1,0 +1,8 @@
+V3 3
+FL D:/Students/PLD-2022/mux_withselect/mux_withselect.vhd 2022/05/27.16:25:41 O.87xd
+EN work/mux_withselect 1653661548 \
+      FL D:/Students/PLD-2022/mux_withselect/mux_withselect.vhd \
+      PB ieee/std_logic_1164 1325952872
+AR work/mux_withselect/Behavioral 1653661549 \
+      FL D:/Students/PLD-2022/mux_withselect/mux_withselect.vhd \
+      EN work/mux_withselect 1653661548

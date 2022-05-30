@@ -1,0 +1,6 @@
+xst -intstyle ise -ifn "D:/Students/PLD-2022/comparatorOneBit/comparator.xst" -ofn "D:/Students/PLD-2022/comparatorOneBit/comparator.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc comparator.ucf -p xc3s200-vq100-4 comparator.ngc comparator.ngd  
+map -intstyle ise -p xc3s200-vq100-4 -cm area -ir off -pr off -c 100 -o comparator_map.ncd comparator.ngd comparator.pcf 
+par -w -intstyle ise -ol high -t 1 comparator_map.ncd comparator.ncd comparator.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml comparator.twx comparator.ncd -o comparator.twr comparator.pcf -ucf comparator.ucf 
+bitgen -intstyle ise -f comparator.ut comparator.ncd 

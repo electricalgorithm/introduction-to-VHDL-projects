@@ -1,0 +1,54 @@
+$date
+  Sat Apr 23 22:39:07 2022
+$end
+$version
+  GHDL v0
+$end
+$timescale
+  1 fs
+$end
+$scope module standard $end
+$upscope $end
+$scope module textio $end
+$upscope $end
+$scope module std_logic_1164 $end
+$upscope $end
+$scope module bcdtosevensegdecodertest $end
+$var reg 4 ! bcd_input[3:0] $end
+$var reg 7 " sevenseg_output[6:0] $end
+$scope module uut $end
+$var reg 4 # bcd_input[3:0] $end
+$var reg 7 $ sevenseg_output[6:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+#0
+b0000 !
+b1111110 "
+b0000 #
+b1111110 $
+#40000000
+b0101 !
+b1011011 "
+b0101 #
+b1011011 $
+#80000000
+b0011 !
+b1111001 "
+b0011 #
+b1111001 $
+#120000000
+b1000 !
+b1111111 "
+b1000 #
+b1111111 $
+#160000000
+b0001 !
+b0110000 "
+b0001 #
+b0110000 $
+#200000000
+b0010 !
+b1101101 "
+b0010 #
+b1101101 $

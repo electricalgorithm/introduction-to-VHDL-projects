@@ -1,0 +1,8 @@
+xst -intstyle ise -ifn "D:/Students/PLD-2022/my_mux2/my_mux2.xst" -ofn "D:/Students/PLD-2022/my_mux2/my_mux2.syr" 
+xst -intstyle ise -ifn "D:/Students/PLD-2022/my_mux2/my_mux2.xst" -ofn "D:/Students/PLD-2022/my_mux2/my_mux2.syr" 
+xst -intstyle ise -ifn "D:/Students/PLD-2022/my_mux2/my_mux2.xst" -ofn "D:/Students/PLD-2022/my_mux2/my_mux2.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc my_mux2.ucf -p xc3s200-vq100-4 my_mux2.ngc my_mux2.ngd  
+map -intstyle ise -p xc3s200-vq100-4 -cm area -ir off -pr off -c 100 -o my_mux2_map.ncd my_mux2.ngd my_mux2.pcf 
+par -w -intstyle ise -ol high -t 1 my_mux2_map.ncd my_mux2.ncd my_mux2.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml my_mux2.twx my_mux2.ncd -o my_mux2.twr my_mux2.pcf -ucf my_mux2.ucf 
+bitgen -intstyle ise -f my_mux2.ut my_mux2.ncd 

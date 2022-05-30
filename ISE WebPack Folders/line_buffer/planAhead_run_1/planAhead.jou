@@ -1,0 +1,19 @@
+#-----------------------------------------------------------
+# PlanAhead v13.4 (64-bit)
+# Build 157570 by hdbuild on Fri Dec 16 13:06:31 MST 2011
+# Start of session at: Fri May 20 17:10:40 2022
+# Process ID: 6944
+# Log file: D:/Students/PLD-2022/line_buffer/planAhead_run_1/planAhead.log
+# Journal file: D:/Students/PLD-2022/line_buffer/planAhead_run_1/planAhead.jou
+#-----------------------------------------------------------
+start_gui
+source D:/Students/PLD-2022/line_buffer/pa.fromNetlist.tcl
+startgroup
+set_property loc PAD83 [get_ports Y]
+endgroup
+startgroup
+set_property loc PAD82 [get_ports Y1]
+endgroup
+save_design
+exit
+stop_gui

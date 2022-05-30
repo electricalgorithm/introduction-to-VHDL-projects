@@ -1,0 +1,7 @@
+v 4
+file . "NBC_OneOfFour.vhdl" "da784a0fe9815f7bf8875a8a871af99ff117e324" "20220423205158.032":
+  entity nbc_oneoffour at 1( 0) + 0 on 13;
+  architecture behavioral of nbc_oneoffour at 9( 203) + 0 on 14;
+file . "NBC_OneOfFour_Test.vhdl" "ff8ba3394af12d93b98862a59325da32236ea81b" "20220423205158.029":
+  entity nbc_oneoffour_test at 1( 0) + 0 on 11;
+  architecture behavior of nbc_oneoffour_test at 7( 100) + 0 on 12;
