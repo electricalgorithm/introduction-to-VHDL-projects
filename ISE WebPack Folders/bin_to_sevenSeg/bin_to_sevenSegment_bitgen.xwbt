@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=D:\Students\PLD-2022\bin_to_sevenSeg\bin_to_sevenSegment.ncd
-OUTFILE=D:\Students\PLD-2022\bin_to_sevenSeg\bin_to_sevenSegment.bit
-FAMILY=Spartan3
-PART=xc3s200-4vq100
-WORKINGDIR=D:\Students\PLD-2022\bin_to_sevenSeg
-LICENSE=WebPack
-USER_INFO=211215349_0_0_431

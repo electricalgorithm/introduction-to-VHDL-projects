@@ -1,8 +1,0 @@
-Release 13.4 Drc O.87xd (nt64)
-Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
-
-Fri May 20 17:33:31 2022
-
-drc -z comparator.ncd comparator.pcf
-
-DRC detected 0 errors and 0 warnings.

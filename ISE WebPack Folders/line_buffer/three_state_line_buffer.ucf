@@ -1,6 +1,0 @@
-
-
-NET "S" LOC = P32;
-NET "X" LOC = P30;
-NET "Y" LOC = P59;
-NET "Y1" LOC = P60;

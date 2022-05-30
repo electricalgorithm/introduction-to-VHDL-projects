@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=D:\Students\PLD-2022\comparatorOneBit\comparator.ncd
-OUTFILE=D:\Students\PLD-2022\comparatorOneBit\comparator.bit
-FAMILY=Spartan3
-PART=xc3s200-4vq100
-WORKINGDIR=D:\Students\PLD-2022\comparatorOneBit
-LICENSE=WebPack
-USER_INFO=211215349_0_0_431

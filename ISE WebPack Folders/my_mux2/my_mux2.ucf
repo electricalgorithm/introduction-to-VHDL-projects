@@ -1,7 +1,0 @@
-
-# PlanAhead Generated physical constraints 
-
-NET "S" LOC = P5;
-NET "X0" LOC = P35;
-NET "X1" LOC = P34;
-NET "Y" LOC = P59;

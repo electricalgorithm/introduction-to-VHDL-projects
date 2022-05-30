@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=D:\Students\PLD-2022\adder_sch\adder_sch.ncd
-OUTFILE=D:\Students\PLD-2022\adder_sch\adder_sch.bit
-FAMILY=Spartan3
-PART=xc3s200-4vq100
-WORKINGDIR=D:\Students\PLD-2022\adder_sch
-LICENSE=WebPack
-USER_INFO=211215349_0_0_431

@@ -1,8 +1,0 @@
-INTSTYLE=ise
-INFILE=D:\Students\PLD-2022\my_mux2\my_mux2.ncd
-OUTFILE=D:\Students\PLD-2022\my_mux2\my_mux2.bit
-FAMILY=Spartan3
-PART=xc3s200-4vq100
-WORKINGDIR=D:\Students\PLD-2022\my_mux2
-LICENSE=WebPack
-USER_INFO=211215349_0_0_431

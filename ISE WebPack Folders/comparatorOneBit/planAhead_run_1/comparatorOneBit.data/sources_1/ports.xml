@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-<Interface Version="1" Minor="1">
-	<Ifc Id="ROOT" Top="1">
-		<Port Id="CMP" Dir="OUT"/>
-		<Port Id="A" Dir="IN"/>
-		<Port Id="B" Dir="IN"/>
-	</Ifc>
-</Interface>
-

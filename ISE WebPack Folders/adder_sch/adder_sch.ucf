@@ -1,8 +1,0 @@
-
-# PlanAhead Generated physical constraints 
-
-NET "A" LOC = P23;
-NET "B" LOC = P27;
-NET "Cin" LOC = P28;
-NET "Cout" LOC = P59;
-NET "S" LOC = P60;

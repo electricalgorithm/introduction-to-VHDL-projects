@@ -1,8 +1,0 @@
-xst -intstyle ise -ifn "D:/Students/PLD-2022/mux_withselect/mux_withselect.xst" -ofn "D:/Students/PLD-2022/mux_withselect/mux_withselect.syr" 
-xst -intstyle ise -ifn "D:/Students/PLD-2022/mux_withselect/mux_withselect.xst" -ofn "D:/Students/PLD-2022/mux_withselect/mux_withselect.syr" 
-xst -intstyle ise -ifn "D:/Students/PLD-2022/mux_withselect/mux_withselect.xst" -ofn "D:/Students/PLD-2022/mux_withselect/mux_withselect.syr" 
-ngdbuild -intstyle ise -dd _ngo -nt timestamp -uc mux_withselect.ucf -p xc3s200-vq100-4 mux_withselect.ngc mux_withselect.ngd  
-map -intstyle ise -p xc3s200-vq100-4 -cm area -ir off -pr off -c 100 -o mux_withselect_map.ncd mux_withselect.ngd mux_withselect.pcf 
-par -w -intstyle ise -ol high -t 1 mux_withselect_map.ncd mux_withselect.ncd mux_withselect.pcf 
-trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml mux_withselect.twx mux_withselect.ncd -o mux_withselect.twr mux_withselect.pcf -ucf mux_withselect.ucf 
-bitgen -intstyle ise -f mux_withselect.ut mux_withselect.ncd 

@@ -1,8 +1,0 @@
-V3 3
-FL D:/Students/PLD-2022/line_buffer/three_state_line_buffer.vhd 2022/05/20.17:15:49 O.87xd
-EN work/three_state_line_buffer 1653059753 \
-      FL D:/Students/PLD-2022/line_buffer/three_state_line_buffer.vhd \
-      PB ieee/std_logic_1164 1325952872
-AR work/three_state_line_buffer/Behavioral 1653059754 \
-      FL D:/Students/PLD-2022/line_buffer/three_state_line_buffer.vhd \
-      EN work/three_state_line_buffer 1653059753
